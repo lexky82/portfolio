@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: '', // e.g: 'Name | Developer'
   lang: 'ko', // e.g: en, es, fr, jp
-  description: '안녕하세요! 신입개발자 권혁진입니다.',
+  description: '안녕하세요! 신입 개발자 권혁진입니다.',
 };
 
 // HERO DATA
@@ -32,8 +32,8 @@ export const projectsData = [
     title: 'Link-Developer',
     info: '개발인원: 1인, 소요기간: 2달',
     info2:
-      'React와 Express로 개발한 스터디 웹 서비스입니다. 백엔드와 협업이 필수적이기에 프론트엔드 개발자지만 조금이나마 백엔드 개발을 통해서 백엔드와의 협업 프로세스를 알 수 있게 되었고 ' +
-      '기본적인 React 동작원리와 hook을 사용하는 방법과 가장 중요한 상태관리를 어떻게 해야할지를 파악하게 되었습니다.',
+      'React와 Express로 개발한 스터디 웹 서비스입니다. 실무에서는 백엔드와 협업이 필수적이기에 프론트엔드 개발자지만 조금이나마 백엔드 개발을 통해서 백엔드와의 협업 프로세스를 알 수 있게 되었고 ' +
+      '기본적인 React 동작원리와 hook을 사용하는 방법 그리고 가장 중요한 상태관리를 어떻게 해야할지를 파악하게 되었습니다.',
     url: 'http://3.16.138.36:5000/',
     repo: 'https://github.com/lexky82/link-developer', // if no repo, the button will not show up
   },

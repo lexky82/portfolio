@@ -20,7 +20,7 @@ const Contact = () => {
           className="cta-btn cta-btn--resume"
           href="https://tried.tistory.com/"
           >
-            블로그
+            Tistory 블로그
           </a>
           </div>
           
