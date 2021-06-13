@@ -1,0 +1,36 @@
+.AboutMe_basic-infos__36Rb0{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 271px;
+    justify-content: space-between;
+    -webkit-box-pack: justify;
+}
+.AboutMe_basic-info-wrapper__3E-0e{
+    margin-bottom: 2rem;
+    width: 50%;
+}
+.AboutMe_basic-info__3sjma{
+    display: flex;
+    flex-flow: row nowrap;
+    width: 50%;
+    margin: 0 auto;
+}
+.AboutMe_icon-img-wrapper__YKbSY{
+    width: 2rem;
+    min-width: 2rem;
+    height: 2rem;
+    margin-top: .2rem;
+    margin-right: 2rem;
+}
+.AboutMe_field__5L2Lm{
+    text-align: left;
+}
+.AboutMe_field-label__1B57s{
+    font-weight: 700;
+    font-size: 1.8rem;
+}
+.AboutMe_field-value__qT3Li{
+    font-weight: 400;
+    font-size: 2rem;
+}
