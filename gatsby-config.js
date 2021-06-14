@@ -1,5 +1,7 @@
+const path = require('path')
+
 module.exports = {
-  pathPrefix : "portfolio",
+  pathPrefix : "/portfolio",
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,

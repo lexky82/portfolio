@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    height: 271px;
     justify-content: space-between;
     -webkit-box-pack: justify;
 }
@@ -34,3 +33,15 @@
     font-weight: 400;
     font-size: 2rem;
 }
+
+@media screen and (max-width: 768px) {
+    .AboutMe_field-label__1B57s{
+        font-weight: 500;
+        font-size: 1.5rem;
+    }
+    .AboutMe_field-value__qT3Li{
+        font-weight: 400;
+        font-size: 1.5rem;
+    }
+}
+
