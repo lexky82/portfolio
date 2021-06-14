@@ -34,10 +34,9 @@ export const projectsData = [
     info2:
       'React와 Express로 개발한 스터디 웹 서비스입니다. 실무에서는 백엔드와 협업이 필수적이기에 프론트엔드 개발자지만 조금이나마 백엔드 개발을 통해서 백엔드와의 협업 프로세스를 엿볼 수 있었고 ' +
       '기본적인 React 동작원리와 hook을 사용하는 방법 그리고 가장 중요한 상태관리를 어떻게 해야 할지를 파악하게 되었습니다.',
-    url: 'http://3.16.138.36:5000/',
+    url: 'http://linkdeveloper.net/',
     repo: 'https://github.com/lexky82/link-developer', // if no repo, the button will not show up
   },
-  
 ];
 
 // CONTACT DATA
