@@ -46,7 +46,7 @@ const About = () => {
                     '수행하던 업무들이 다소 오래되어 사장 되어가는 기술들 이여서 회의감을 느끼게 되었고 ASP.Net을 업무를 통해서 접하면서 웹의 흥미를 가지게 되는 계기가 되었습니다.'}
                 </p>
                 <p className="about-wrapper__info-text">{paragraphThree || '무언가를 배울 땐 기초가 가장 중요하다는 생각을 갖고 있습니다. 웹과 웹브라우저 HTML, CSS, JS를 코어개념과 원리를 중점으로 공부했으며 React를 사용하여 토이프로젝트 진행하며 프론트엔드 꿈을 키워가고 있습니다. '}</p>
-                {resume && (
+                { resume && (
                   <span className="d-flex mt-3">
                     <a
                       target="_blank"
@@ -54,7 +54,7 @@ const About = () => {
                       className="cta-btn cta-btn--resume"
                       href={resume}
                     >
-                      RESUME 이력서 보기
+                      이력서 보기
                     </a>
                   </span>
                 )}
