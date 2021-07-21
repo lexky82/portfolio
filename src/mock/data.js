@@ -37,6 +37,16 @@ export const projectsData = [
     url: 'http://linkdeveloper.net/',
     repo: 'https://github.com/lexky82/link-developer', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'MyDiary.png',
+    title: 'MyDiary',
+    info: '개발인원: 1인, 소요기간: 6.24 ~ 진행중',
+    info2:
+      'React, Emotion, SWR를 사용하여 일기 웹 서비스를 개발하고 있습니다. 현재 개발 트렌드에 맞는 라이브러리를 사용하고 있고 첫 프로젝트인 Link-Developer에서 느낀 부족한 점들을 개선하고자 프로젝트를 기획했습니다.' +
+      '첫 프로젝트에서 가장 부족하다고 느낀 프로젝트 구조를 고민하여 개발하고 있습니다.',
+    repo: 'https://github.com/lexky82/mydiary', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
